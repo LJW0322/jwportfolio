@@ -1,0 +1,9 @@
+.kiosk{width: 100%;}
+.kiosk img{width: 100%;}
+
+/*주의 사항 시작*/
+.information{width: 100%; height: 50px; margin: 0 auto;}
+.info_t{float: left; width: 65%; padding-top: 8px; font-size: 10pt; font-weight: 400; color: #6a6a6a;}
+.back_button{float: right; width: 10%; background-color: #ff0050; color: white; text-align: center; padding-top: 5px; padding-bottom: 5px; border-radius: 20px; margin-top: 8px; font-size: 12pt; font-weight: 600;}
+.back_button1{float: right; width: 10%; background-color: #00704a; color: white; text-align: center; padding-top: 5px; padding-bottom: 5px; border-radius: 20px; margin-top: 8px; font-size: 12pt; font-weight: 600;}
+/*주의 사항 끝*/
